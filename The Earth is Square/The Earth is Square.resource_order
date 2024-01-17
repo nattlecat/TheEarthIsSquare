@@ -17,10 +17,12 @@
     {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"Object4","order":3,"path":"objects/Object4/Object4.yy",},
     {"name":"Object3","order":2,"path":"objects/Object3/Object3.yy",},
     {"name":"sun1","order":1,"path":"sprites/sun1/sun1.yy",},
     {"name":"moon1","order":2,"path":"sprites/moon1/moon1.yy",},
     {"name":"planet2","order":3,"path":"sprites/planet2/planet2.yy",},
+    {"name":"cloud1","order":4,"path":"sprites/cloud1/cloud1.yy",},
     {"name":"Object2","order":1,"path":"objects/Object2/Object2.yy",},
   ],
 }
