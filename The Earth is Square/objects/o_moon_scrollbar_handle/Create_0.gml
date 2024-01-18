@@ -3,5 +3,6 @@
 
 is_dragging = false;
 
-x_min = 239;
-x_max = 269;
+
+x_min = 210;
+x_max = 274;

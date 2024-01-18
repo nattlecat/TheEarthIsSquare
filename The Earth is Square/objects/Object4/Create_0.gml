@@ -9,8 +9,10 @@ slider_pos = 0; // create default slider value
  -- for the controlling slider handle to move along 
  -- should align with the slider track's length our 'handle' references
 */
-x_min = 766;
-x_max = 830;
+
+x_min = 210;
+x_max = 274;
+
 
 
 /*
