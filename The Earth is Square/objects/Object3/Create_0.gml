@@ -19,3 +19,6 @@ x_max = 830;
 */
 angle = 0;
 orbit_radius = 42.0;
+
+// For showing / orienting 'beam' for moon's rays / collisions
+// moon_beam = instance_create_layer(x, y, "Instances", o_moon_beam);
