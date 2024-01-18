@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "scrollbarhandle",
-    "path": "sprites/scrollbarhandle/scrollbarhandle.yy",
+    "name": "redscrollbarindicater",
+    "path": "sprites/redscrollbarindicater/redscrollbarindicater.yy",
   },
   "spriteMaskId": null,
   "visible": true,

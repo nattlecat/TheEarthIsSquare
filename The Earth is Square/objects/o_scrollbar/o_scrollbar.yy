@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "scrollbar",
-    "path": "sprites/scrollbar/scrollbar.yy",
+    "name": "yellowscrollbar",
+    "path": "sprites/yellowscrollbar/yellowscrollbar.yy",
   },
   "spriteMaskId": null,
   "visible": true,

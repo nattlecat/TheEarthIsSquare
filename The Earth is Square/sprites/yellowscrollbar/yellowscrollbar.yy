@@ -1,11 +1,11 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "scrollbarhandle",
-  "bbox_bottom": 18,
-  "bbox_left": 6,
-  "bbox_right": 15,
-  "bbox_top": 9,
+  "name": "yellowscrollbar",
+  "bbox_bottom": 28,
+  "bbox_left": 22,
+  "bbox_right": 106,
+  "bbox_top": 15,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"42279c36-5aa8-4a76-a771-8e0efdf34da7",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"2533d915-f59e-48e1-8182-dfd413c98a44",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 32,
+  "height": 50,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"fc5ce385-a476-4166-9d05-536ebf0eeecf","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"cdbf4aac-44ae-4859-89eb-627e30e2f8d2","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -32,7 +32,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "scrollbarhandle",
+    "name": "yellowscrollbar",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"42279c36-5aa8-4a76-a771-8e0efdf34da7","path":"sprites/scrollbarhandle/scrollbarhandle.yy",},},},"Disabled":false,"id":"59074f47-41b0-4c7b-9a19-7b57fd04c8cf","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"2533d915-f59e-48e1-8182-dfd413c98a44","path":"sprites/yellowscrollbar/yellowscrollbar.yy",},},},"Disabled":false,"id":"3a3dc7a2-7d6b-4517-b81b-df55edda35be","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 32,
+  "width": 110,
 }
