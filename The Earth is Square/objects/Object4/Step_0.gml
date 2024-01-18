@@ -21,3 +21,22 @@ y = orbit_y;
 // FOR TESTING (may need fixing / adjustments to see): should draw line from 'orbiter' to center of planet
 draw_set_color(c_yellow);
 draw_line(Object1.x, Object1.y, x, y);
+
+// UPDATE for use with slider, uncomment:
+
+// var slider_pos = o_moon_slider_handle.x;
+// TODO: figure out what our max 'rotation speeds' should be
+
+// max_neg_dir = -0.69
+// max_pos_dir = 0.69
+// rotation_speed = lerp(max_neg_dir, max_pos_dir, (slider_pos - x_min) / (x_max - x_min))
+// angle += rotation_speed;
+
+// orbit_x = Object1.x + lengthdir_x(orbit_radius, angle);
+// orbit_y = Object1.y + lengthdir_y(orbit_radius, angle);
+
+// x = orbit_x;
+// y = orbit_y;
+
+// cloud_beam.x = x;
+// cloud_beam.y = y;
