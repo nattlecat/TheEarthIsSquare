@@ -18,7 +18,7 @@ x_max = 830;
 -- orbit_radius controls distance from the point of origin (middle-center of planet)
 */
 angle = 0;
-orbit_radius = 69;
+orbit_radius = 32;
 
 // For showing / orienting 'beam' for sun's rays / collisions
 // sun_beam = instance_create_layer(x, y, "Instances", o_sun_beam);

@@ -10,8 +10,8 @@
 
 angle += 0.616;
 
-var orbit_x = Object1.x + lengthdir_x(orbit_radius, angle);
-var orbit_y = Object1.y + lengthdir_y(orbit_radius, angle);
+var orbit_x = Object1.x + lengthdir_x(Object1.radius + orbit_radius, angle);
+var orbit_y = Object1.y + lengthdir_y(Object1.radius + orbit_radius, angle);
 
 // set new position
 x = orbit_x;

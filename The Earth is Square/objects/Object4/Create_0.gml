@@ -18,7 +18,7 @@ x_max = 830;
 -- orbit_radius controls distance from the point of origin (middle-center of planet)
 */
 angle = 0;
-orbit_radius = 6.66;
+orbit_radius = 8;
 
 // For showing / orienting 'beam' for cloud's collisions
 // cloud_beam = instance_create_layer(x, y, "Instances", o_cloud_beam);
