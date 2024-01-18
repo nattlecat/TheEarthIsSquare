@@ -32,6 +32,7 @@
     {"name":"planet2","order":3,"path":"sprites/planet2/planet2.yy",},
     {"name":"twinklingstars","order":11,"path":"sprites/twinklingstars/twinklingstars.yy",},
     {"name":"o_grounddry","order":5,"path":"objects/o_grounddry/o_grounddry.yy",},
+    {"name":"sunbeam1","order":14,"path":"sprites/sunbeam1/sunbeam1.yy",},
     {"name":"o_moon_scrollbar_handle","order":11,"path":"objects/o_moon_scrollbar_handle/o_moon_scrollbar_handle.yy",},
     {"name":"o_scrollbar","order":8,"path":"objects/o_scrollbar/o_scrollbar.yy",},
     {"name":"cloud1","order":4,"path":"sprites/cloud1/cloud1.yy",},
