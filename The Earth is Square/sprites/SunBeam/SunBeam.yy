@@ -2,7 +2,7 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "SunBeam",
-  "bbox_bottom": 63,
+  "bbox_bottom": 71,
   "bbox_left": 0,
   "bbox_right": 24,
   "bbox_top": 0,
@@ -17,7 +17,7 @@
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 64,
+  "height": 72,
   "HTile": false,
   "layers": [
     {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"236af964-195d-43d8-868f-2ba56bdbd040","blendMode":0,"displayName":"default","isLocked":false,"opacity":40.0,"visible":true,},

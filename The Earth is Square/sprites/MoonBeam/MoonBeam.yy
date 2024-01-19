@@ -2,7 +2,7 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "MoonBeam",
-  "bbox_bottom": 42,
+  "bbox_bottom": 63,
   "bbox_left": 0,
   "bbox_right": 15,
   "bbox_top": 0,
@@ -17,7 +17,7 @@
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 43,
+  "height": 64,
   "HTile": false,
   "layers": [
     {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"6ab593c4-d31f-4f2e-92d1-d4eaf3c250cd","blendMode":0,"displayName":"default","isLocked":false,"opacity":40.0,"visible":true,},
