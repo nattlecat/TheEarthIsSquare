@@ -74,6 +74,7 @@
     {"id":{"name":"o_cloud_scrollbar_handle","path":"objects/o_cloud_scrollbar_handle/o_cloud_scrollbar_handle.yy",},},
     {"id":{"name":"Sprite23","path":"sprites/Sprite23/Sprite23.yy",},},
     {"id":{"name":"o_greenplants","path":"objects/o_greenplants/o_greenplants.yy",},},
+    {"id":{"name":"squareearth1","path":"sounds/squareearth1/squareearth1.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
