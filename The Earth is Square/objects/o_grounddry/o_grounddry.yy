@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "GroundDry",
-    "path": "sprites/GroundDry/GroundDry.yy",
+    "name": "PlanetZone2",
+    "path": "sprites/PlanetZone2/PlanetZone2.yy",
   },
   "spriteMaskId": null,
   "visible": true,

@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Water",
-    "path": "sprites/Water/Water.yy",
+    "name": "PlanetZone4",
+    "path": "sprites/PlanetZone4/PlanetZone4.yy",
   },
   "spriteMaskId": null,
   "visible": true,

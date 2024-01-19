@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "GreenPlants",
-    "path": "sprites/GreenPlants/GreenPlants.yy",
+    "name": "PlanetZone1",
+    "path": "sprites/PlanetZone1/PlanetZone1.yy",
   },
   "spriteMaskId": null,
   "visible": true,

@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "GroundMoist",
-    "path": "sprites/GroundMoist/GroundMoist.yy",
+    "name": "PlanetZone3",
+    "path": "sprites/PlanetZone3/PlanetZone3.yy",
   },
   "spriteMaskId": null,
   "visible": true,
