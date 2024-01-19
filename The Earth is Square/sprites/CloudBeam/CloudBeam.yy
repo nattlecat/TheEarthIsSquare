@@ -3,7 +3,7 @@
   "resourceVersion": "1.0",
   "name": "CloudBeam",
   "bbox_bottom": 47,
-  "bbox_left": 0,
+  "bbox_left": 1,
   "bbox_right": 7,
   "bbox_top": 0,
   "bboxMode": 0,
@@ -20,7 +20,7 @@
   "height": 48,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"46d01095-fd7b-42fc-8f53-f2cc8865db04","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"46d01095-fd7b-42fc-8f53-f2cc8865db04","blendMode":0,"displayName":"default","isLocked":false,"opacity":40.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 1,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 8,
+  "width": 9,
 }
