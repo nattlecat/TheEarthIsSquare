@@ -23,4 +23,4 @@ angle = 0;
 orbit_radius = 32;
 
 // For showing / orienting 'beam' for sun's rays / collisions
-// sun_beam = instance_create_layer(x, y, "Instances", o_sun_beam);
+sun_beam = instance_create_layer(x, y, "Instances", o_sun_beam);

@@ -23,4 +23,4 @@ angle = 0;
 orbit_radius = 8;
 
 // For showing / orienting 'beam' for cloud's collisions
-// cloud_beam = instance_create_layer(x, y, "Instances", o_cloud_beam);
+cloud_beam = instance_create_layer(x, y, "Instances", o_cloud_beam);

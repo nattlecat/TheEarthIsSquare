@@ -39,10 +39,13 @@ x = orbit_x;
 y = orbit_y;
 
 
-// cloud_beam.x = x;
-// cloud_beam.y = y;
+
+
 
 
 // TESTING - cloud orientation -- WORKS!
 var direction_to_planet = point_direction(x, y, o_planet.x, o_planet.y);
 image_angle = direction_to_planet + 90;
+
+cloud_beam.x = x;
+cloud_beam.y = y;

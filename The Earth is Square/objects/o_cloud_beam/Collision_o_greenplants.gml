@@ -2,7 +2,8 @@
 // You can write your code in this editor
 
 
-image_speed = 0;
-image_index = 1;
-
-original_idx = image_index;
+with (other) {
+	og_image_idx = image_index;
+	
+	image_index = 0;
+}

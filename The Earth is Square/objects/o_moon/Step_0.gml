@@ -40,5 +40,5 @@ x = orbit_x;
 y = orbit_y;
 
 
-// moon_beam.x = x;
-// moon_beam.y = y;
+moon_beam.x = x;
+moon_beam.y = y;

@@ -40,5 +40,5 @@ orbit_y = o_planet.y + lengthdir_y(o_planet.radius + orbit_radius, angle);
 x = orbit_x;
 y = orbit_y;
 
-// sun_beam.x = x;
-// sun_beam.y = y;
+sun_beam.x = x;
+sun_beam.y = y;
