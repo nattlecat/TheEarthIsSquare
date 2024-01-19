@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "o_greenplants",
+  "name": "o_planet",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
   ],
@@ -28,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "PlanetZone1",
-    "path": "sprites/PlanetZone1/PlanetZone1.yy",
+    "name": "planet2",
+    "path": "sprites/planet2/planet2.yy",
   },
   "spriteMaskId": null,
   "visible": true,
