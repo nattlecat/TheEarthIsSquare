@@ -2,7 +2,9 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "o_water",
-  "eventList": [],
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -26,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Water",
-    "path": "sprites/Water/Water.yy",
+    "name": "PlanetZone4",
+    "path": "sprites/PlanetZone4/PlanetZone4.yy",
   },
   "spriteMaskId": null,
   "visible": true,

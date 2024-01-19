@@ -2,7 +2,9 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "o_groundmoist",
-  "eventList": [],
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -26,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "GroundMoist",
-    "path": "sprites/GroundMoist/GroundMoist.yy",
+    "name": "PlanetZone3",
+    "path": "sprites/PlanetZone3/PlanetZone3.yy",
   },
   "spriteMaskId": null,
   "visible": true,

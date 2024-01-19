@@ -2,7 +2,9 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "o_grounddry",
-  "eventList": [],
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -26,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "GroundDry",
-    "path": "sprites/GroundDry/GroundDry.yy",
+    "name": "PlanetZone2",
+    "path": "sprites/PlanetZone2/PlanetZone2.yy",
   },
   "spriteMaskId": null,
   "visible": true,
