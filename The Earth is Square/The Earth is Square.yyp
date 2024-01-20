@@ -27,7 +27,9 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Tile Sets","folderPath":"folders/Tile Sets.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Timelines","folderPath":"folders/Timelines.yy",},
   ],
-  "IncludedFiles": [],
+  "IncludedFiles": [
+    {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"at01.ttf","CopyToMask":-1,"filePath":"datafiles",},
+  ],
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
@@ -64,6 +66,7 @@
     {"id":{"name":"o_grounddry","path":"objects/o_grounddry/o_grounddry.yy",},},
     {"id":{"name":"sunbeam1","path":"sprites/sunbeam1/sunbeam1.yy",},},
     {"id":{"name":"o_moon_scrollbar_handle","path":"objects/o_moon_scrollbar_handle/o_moon_scrollbar_handle.yy",},},
+    {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},},
     {"id":{"name":"o_scrollbar","path":"objects/o_scrollbar/o_scrollbar.yy",},},
     {"id":{"name":"twinklingstars2","path":"sprites/twinklingstars2/twinklingstars2.yy",},},
     {"id":{"name":"cloud1","path":"sprites/cloud1/cloud1.yy",},},
