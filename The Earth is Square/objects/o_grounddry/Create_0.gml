@@ -6,3 +6,5 @@ image_speed = 0;
 image_index = 1;
 
 original_idx = image_index;
+greenness = 0;
+mut_rate = 3;
