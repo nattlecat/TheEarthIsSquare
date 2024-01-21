@@ -7,4 +7,4 @@ image_index = 1;
 
 original_idx = image_index;
 greenness = 0;
-mut_rate = 1;
+mut_rate = 0.000005;
