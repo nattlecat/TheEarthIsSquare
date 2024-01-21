@@ -11,7 +11,7 @@ image_angle = direction_to_planet + 90;
 with (o_greenplants) {
 	
 	if (!place_meeting(x, y, o_sun_beam)) {
-		image_index = original_idx;
+		// image_index = original_idx;
 	}
 }
 
@@ -19,14 +19,14 @@ with (o_greenplants) {
 with (o_grounddry) {
 	
 	if (!place_meeting(x, y, o_sun_beam)) {
-		image_index = original_idx;
+		// image_index = original_idx;
 	}
 }
 
 with (o_groundmoist) {
 	
 	if (!place_meeting(x, y, o_sun_beam)) {
-		image_index = original_idx;
+		// image_index = original_idx;
 	}
 }
 

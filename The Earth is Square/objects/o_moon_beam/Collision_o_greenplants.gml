@@ -5,5 +5,5 @@
 with (other) {
 	og_image_idx = image_index;
 	
-	// image_index = 0;
+	image_index = 0;
 }

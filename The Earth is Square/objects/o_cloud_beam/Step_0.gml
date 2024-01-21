@@ -6,7 +6,7 @@
 var direction_to_planet = point_direction(x, y, o_planet.x, o_planet.y);
 image_angle = direction_to_planet + 90;
 
-
+/*
 with (o_greenplants) {
 	
 	if (!place_meeting(x, y, o_cloud_beam)) {
@@ -35,3 +35,5 @@ with (o_water) {
 		image_index = original_idx;
 	}
 }
+
+*/
