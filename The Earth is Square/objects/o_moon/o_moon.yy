@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "moon1",
-    "path": "sprites/moon1/moon1.yy",
+    "name": "moonSpinning",
+    "path": "sprites/moonSpinning/moonSpinning.yy",
   },
   "spriteMaskId": null,
   "visible": true,

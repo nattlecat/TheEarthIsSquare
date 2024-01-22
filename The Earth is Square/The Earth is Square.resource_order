@@ -51,6 +51,7 @@
     {"name":"GreenButMoist","order":22,"path":"sprites/GreenButMoist/GreenButMoist.yy",},
     {"name":"o_scrollbar","order":8,"path":"objects/o_scrollbar/o_scrollbar.yy",},
     {"name":"twinklingstars2","order":18,"path":"sprites/twinklingstars2/twinklingstars2.yy",},
+    {"name":"moonSpinning","order":25,"path":"sprites/moonSpinning/moonSpinning.yy",},
     {"name":"cloud1","order":3,"path":"sprites/cloud1/cloud1.yy",},
     {"name":"o_groundmoist","order":4,"path":"objects/o_groundmoist/o_groundmoist.yy",},
     {"name":"MoonBeam","order":17,"path":"sprites/MoonBeam/MoonBeam.yy",},

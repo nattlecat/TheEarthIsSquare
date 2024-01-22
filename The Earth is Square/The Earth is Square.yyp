@@ -73,6 +73,7 @@
     {"id":{"name":"Font1","path":"fonts/Font1/Font1.yy",},},
     {"id":{"name":"o_scrollbar","path":"objects/o_scrollbar/o_scrollbar.yy",},},
     {"id":{"name":"twinklingstars2","path":"sprites/twinklingstars2/twinklingstars2.yy",},},
+    {"id":{"name":"moonSpinning","path":"sprites/moonSpinning/moonSpinning.yy",},},
     {"id":{"name":"cloud1","path":"sprites/cloud1/cloud1.yy",},},
     {"id":{"name":"o_groundmoist","path":"objects/o_groundmoist/o_groundmoist.yy",},},
     {"id":{"name":"MoonBeam","path":"sprites/MoonBeam/MoonBeam.yy",},},
