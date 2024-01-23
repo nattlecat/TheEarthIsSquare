@@ -9,19 +9,19 @@ if (spawn_timer == 0) {
     visible = true; // Make rocket visible
     
     // Set a random starting position
-    x = random_range(0, room_width);
-    y = random_range(0, room_height);
+    //x = random_range(0, room_width);
+    //y = random_range(0, room_height);
     
     // Set a random flight path
-    speed = random_range(5, 10); // Adjust for desired speed range
-    angle = random_range(0, 360); // Random direction
+    speed = random_range(.1, 1); // Adjust for desired speed range
+	image_angle = angle
 }
 
 // Handle rocket movement and state
 switch (rocket_state) {
     case 1: // Flying
-        x += speed * direction_cos(angle);
-        y += speed * direction_sin(angle);
+        x += speed * direction * cos(angle);
+        y += speed * direction * sin(angle);
         
         // Check if rocket reached edge of room
         if (x < 0 || x > room_width || y < 0 || y > room_height) {
@@ -35,7 +35,7 @@ switch (rocket_state) {
             rocket_state = 0; // Set state to inactive
             
             // Reset spawn timer for next launch
-            spawn_timer = random_range(min_interval, max_interval);
+            spawn_timer = 10;
         }
         break;
 }
