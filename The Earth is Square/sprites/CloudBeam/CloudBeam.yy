@@ -2,7 +2,7 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "CloudBeam",
-  "bbox_bottom": 47,
+  "bbox_bottom": 42,
   "bbox_left": 1,
   "bbox_right": 7,
   "bbox_top": 0,
@@ -17,7 +17,7 @@
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 48,
+  "height": 43,
   "HTile": false,
   "layers": [
     {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"46d01095-fd7b-42fc-8f53-f2cc8865db04","blendMode":0,"displayName":"default","isLocked":false,"opacity":40.0,"visible":true,},

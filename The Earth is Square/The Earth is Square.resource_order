@@ -35,6 +35,7 @@
     {"name":"MoistButDry","order":23,"path":"sprites/MoistButDry/MoistButDry.yy",},
     {"name":"sunmoving","order":26,"path":"sprites/sunmoving/sunmoving.yy",},
     {"name":"GreenButMoist25","order":16,"path":"sprites/GreenButMoist25/GreenButMoist25.yy",},
+    {"name":"cloudraining","order":27,"path":"sprites/cloudraining/cloudraining.yy",},
     {"name":"PlanetZone2","order":12,"path":"sprites/PlanetZone2/PlanetZone2.yy",},
     {"name":"GroundMoist","order":5,"path":"sprites/GroundMoist/GroundMoist.yy",},
     {"name":"redscrollbarindicater","order":10,"path":"sprites/redscrollbarindicater/redscrollbarindicater.yy",},

@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "cloud1",
-    "path": "sprites/cloud1/cloud1.yy",
+    "name": "cloudraining",
+    "path": "sprites/cloudraining/cloudraining.yy",
   },
   "spriteMaskId": null,
   "visible": true,
