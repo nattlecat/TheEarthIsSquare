@@ -3,16 +3,15 @@
 if (spawn_timer > 0) {
   spawn_timer -= 1;
 } else {
-  spawn_timer = random_range(50, 100); // Set random spawn interval (frames)
-  
+  spawn_timer = random_range(500, 1000);
   // Randomly choose a sprite (optional)
   // sprite_index = random(2); // Assuming two sprite options
   
   // Randomly choose position within room
   x = random_range(0, room_width);
-  y = random_range(0, room_height);
+  y = room_height;
   
   // Create new instance of chosen sprite
-  instance_create_layer(x,y,"Instances", o_rocketflying);
+  instance_create_depth(x,y,350,o_rocketflying);
 }
 
