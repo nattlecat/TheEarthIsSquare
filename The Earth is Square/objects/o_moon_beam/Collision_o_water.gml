@@ -10,3 +10,15 @@ with (other) {
 }
 
 */
+
+
+with (other) {
+    // Check if o_zone# is water (greenness > 75)
+    if (greenness > 75) {
+        // Create o_tide_beam instance at the position of o_zone#
+        var tide_beam = instance_create_layer(x, y, "Instances", o_tide_beam);
+        
+        // Set origin_zone variable in o_tide_beam to the current o_zone# instance
+      //  tide_beam.origin_zone = other;
+    }
+}

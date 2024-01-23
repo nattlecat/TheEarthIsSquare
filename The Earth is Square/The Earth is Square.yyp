@@ -37,6 +37,7 @@
   },
   "resources": [
     {"id":{"name":"GreenPlants","path":"sprites/GreenPlants/GreenPlants.yy",},},
+    {"id":{"name":"o_tide_beam","path":"objects/o_tide_beam/o_tide_beam.yy",},},
     {"id":{"name":"o_sun_beam","path":"objects/o_sun_beam/o_sun_beam.yy",},},
     {"id":{"name":"GroundDry","path":"sprites/GroundDry/GroundDry.yy",},},
     {"id":{"name":"yellowscrollbar","path":"sprites/yellowscrollbar/yellowscrollbar.yy",},},
@@ -73,6 +74,7 @@
     {"id":{"name":"o_groundmoist","path":"objects/o_groundmoist/o_groundmoist.yy",},},
     {"id":{"name":"MoonBeam","path":"sprites/MoonBeam/MoonBeam.yy",},},
     {"id":{"name":"squareanimation1","path":"sprites/squareanimation1/squareanimation1.yy",},},
+    {"id":{"name":"TideBeam","path":"sprites/TideBeam/TideBeam.yy",},},
     {"id":{"name":"o_sun","path":"objects/o_sun/o_sun.yy",},},
     {"id":{"name":"o_cloud_scrollbar_handle","path":"objects/o_cloud_scrollbar_handle/o_cloud_scrollbar_handle.yy",},},
     {"id":{"name":"Sprite23","path":"sprites/Sprite23/Sprite23.yy",},},
