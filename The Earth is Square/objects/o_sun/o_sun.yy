@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sun1",
-    "path": "sprites/sun1/sun1.yy",
+    "name": "sunmoving",
+    "path": "sprites/sunmoving/sunmoving.yy",
   },
   "spriteMaskId": null,
   "visible": true,
