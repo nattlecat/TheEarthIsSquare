@@ -2,7 +2,7 @@
 // You can write your code in this editor
 
 
-
+/*
 with (o_greenplants) {
 	if (place_meeting(x, y, id)) {
 		greenness += tide_increment_rate * delta_time;
@@ -13,7 +13,11 @@ with (o_greenplants) {
 if (!instance_exists(o_greenplants)) {
 	instance_destroy();
 }
-/*
+
+*/
+
+
+
 if (instance_exists(o_greenplants)) {
     // Check if o_tide_beam is still in collision with the origin o_zone#
     if (place_meeting(x, y, o_greenplants)) {
@@ -58,4 +62,5 @@ if (instance_exists(o_water)) {
        instance_destroy();
     }
 }
+
 
