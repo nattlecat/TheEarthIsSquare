@@ -33,6 +33,7 @@
     {"name":"PlanetZone4","order":14,"path":"sprites/PlanetZone4/PlanetZone4.yy",},
     {"name":"SunBeam","order":16,"path":"sprites/SunBeam/SunBeam.yy",},
     {"name":"MoistButDry","order":23,"path":"sprites/MoistButDry/MoistButDry.yy",},
+    {"name":"sunmoving","order":26,"path":"sprites/sunmoving/sunmoving.yy",},
     {"name":"GreenButMoist25","order":16,"path":"sprites/GreenButMoist25/GreenButMoist25.yy",},
     {"name":"PlanetZone2","order":12,"path":"sprites/PlanetZone2/PlanetZone2.yy",},
     {"name":"GroundMoist","order":5,"path":"sprites/GroundMoist/GroundMoist.yy",},

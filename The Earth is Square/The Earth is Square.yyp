@@ -53,6 +53,7 @@
     {"id":{"name":"PlanetZone4","path":"sprites/PlanetZone4/PlanetZone4.yy",},},
     {"id":{"name":"SunBeam","path":"sprites/SunBeam/SunBeam.yy",},},
     {"id":{"name":"MoistButDry","path":"sprites/MoistButDry/MoistButDry.yy",},},
+    {"id":{"name":"sunmoving","path":"sprites/sunmoving/sunmoving.yy",},},
     {"id":{"name":"GreenButMoist25","path":"sprites/GreenButMoist25/GreenButMoist25.yy",},},
     {"id":{"name":"PlanetZone2","path":"sprites/PlanetZone2/PlanetZone2.yy",},},
     {"id":{"name":"GroundMoist","path":"sprites/GroundMoist/GroundMoist.yy",},},
