@@ -12,3 +12,4 @@ mut_rate = 0.000002;
 
 
 // tide_increment_rate = .000001;
+sun_modifier = 1.2
