@@ -9,6 +9,6 @@ image_index = 3;
 // greenness = 66;
  greenness = random_range(45, 80);
 mut_rate = 0.000002;
-
-
 // tide_increment_rate = .000001;
+
+sun_modifier = 0.9;

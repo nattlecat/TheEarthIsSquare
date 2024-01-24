@@ -12,11 +12,14 @@ var greenness_count = 0;
 for (var i = 0; i < array_length(planet_tiles); i++) {
 	// show_debug_message("in loop, planet tile at i: " + string(planet_tiles[i]))
 	var instance = layer_instance_get_instance(planet_tiles[i]);
+	if (instance != noone) {
+		
 	greenness_count += instance.greenness;
+	}
 }
 
 
-var planet_state = greenness_count / (array_length(planet_tiles));
+planet_state = greenness_count / (array_length(planet_tiles));
 
 
 show_debug_message("AN ATTEMPT WAS MADE, STATE: " + string(planet_state) + "%");
