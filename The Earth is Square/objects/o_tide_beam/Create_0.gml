@@ -6,4 +6,4 @@ var direction_to_planet = point_direction(x, y, o_moon.x, o_moon.y);
 image_angle = direction_to_planet + 90;
 
 
-tide_increment_rate = .000002;
+tide_increment_rate = .000001;

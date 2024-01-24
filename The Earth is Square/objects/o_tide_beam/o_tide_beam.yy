@@ -33,5 +33,5 @@
     "path": "sprites/TideBeam/TideBeam.yy",
   },
   "spriteMaskId": null,
-  "visible": true,
+  "visible": false,
 }

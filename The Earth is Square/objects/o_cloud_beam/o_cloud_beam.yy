@@ -37,5 +37,5 @@
     "path": "sprites/CloudBeam/CloudBeam.yy",
   },
   "spriteMaskId": null,
-  "visible": true,
+  "visible": false,
 }

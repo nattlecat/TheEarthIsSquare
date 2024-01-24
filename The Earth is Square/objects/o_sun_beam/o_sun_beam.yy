@@ -36,5 +36,5 @@
     "path": "sprites/SunBeam/SunBeam.yy",
   },
   "spriteMaskId": null,
-  "visible": true,
+  "visible": false,
 }

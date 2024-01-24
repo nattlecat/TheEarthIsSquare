@@ -36,5 +36,5 @@
     "path": "sprites/MoonBeam/MoonBeam.yy",
   },
   "spriteMaskId": null,
-  "visible": true,
+  "visible": false,
 }
