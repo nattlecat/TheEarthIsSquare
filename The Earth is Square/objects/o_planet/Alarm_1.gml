@@ -2,13 +2,6 @@
 // You can write your code in this editor
 
 
-radius = 40;
-
-
-alarm[0] = 600;
-
-
-planet_state = 0;
-
+var text_box = instance_create_layer(200, 3, "Instances", o_state_text);
 
 alarm[1] = 1200;
