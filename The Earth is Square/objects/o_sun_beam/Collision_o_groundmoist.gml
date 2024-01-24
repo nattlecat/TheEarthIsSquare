@@ -7,7 +7,7 @@ with (other) {
 	// image_index = 0;
 	
 	// greenness -= mut_rate * delta_time;
-		greenness -= (2 * mut_rate) * delta_time;
+	greenness -= (2 * mut_rate) * delta_time;
 	greenness = clamp(greenness, 0, 100);
 }
 

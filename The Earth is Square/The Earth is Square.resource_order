@@ -37,7 +37,6 @@
     {"name":"SunBeam","order":16,"path":"sprites/SunBeam/SunBeam.yy",},
     {"name":"MoistButDry","order":23,"path":"sprites/MoistButDry/MoistButDry.yy",},
     {"name":"sunmoving","order":26,"path":"sprites/sunmoving/sunmoving.yy",},
-    {"name":"GreenButMoist25","order":16,"path":"sprites/GreenButMoist25/GreenButMoist25.yy",},
     {"name":"cloudraining","order":27,"path":"sprites/cloudraining/cloudraining.yy",},
     {"name":"Youtube1","order":1,"path":"sounds/Youtube1/Youtube1.yy",},
     {"name":"PlanetZone2","order":12,"path":"sprites/PlanetZone2/PlanetZone2.yy",},
