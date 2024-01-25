@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-alarm[0] = 2 * room_speed;
+alarm[0] = 300;
 
 txt_idx = irandom_range(0, 2);
 state_txt = "";
@@ -14,3 +14,4 @@ water_text = ["daaang, getting blooooooo", "testing water text", "wonderinghowma
 waterwet_text = ["daaang, totally quenched", "testing waterWET text", "wonderinghowmanycharsistoomanyWATERWET" ];
 
 
+celly = instance_create_layer(x, y, "Instances", o_singlecellblorfo);
