@@ -20,7 +20,7 @@ var state_percent = o_planet.planet_state
 
 
 
-state_text = test[0];
+
 
 draw_set_font(Font3);
 
