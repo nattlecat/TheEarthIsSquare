@@ -108,6 +108,7 @@
     {"id":{"name":"o_sun","path":"objects/o_sun/o_sun.yy",},},
     {"id":{"name":"o_music","path":"objects/o_music/o_music.yy",},},
     {"id":{"name":"o_cloud_scrollbar_handle","path":"objects/o_cloud_scrollbar_handle/o_cloud_scrollbar_handle.yy",},},
+    {"id":{"name":"textbox_anim","path":"sprites/textbox_anim/textbox_anim.yy",},},
     {"id":{"name":"textBox","path":"sprites/textBox/textBox.yy",},},
     {"id":{"name":"Sprite23","path":"sprites/Sprite23/Sprite23.yy",},},
     {"id":{"name":"o_greenplants","path":"objects/o_greenplants/o_greenplants.yy",},},
