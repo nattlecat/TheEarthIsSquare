@@ -3,7 +3,7 @@
 depth = 50;
 alarm[0] = 300;
 
-txt_idx = irandom_range(0, 3);
+txt_idx = 0;
 state_txt = "";
 
 dry_text = ["Hmm. Cajun style. Your planet is a bit burnt", "daaang, superrrrrr thirsty", "The land is now ruled by roving gangs of water hoarders.  Pretty neat!", "Heghlu’meH QaQ jajvam"
