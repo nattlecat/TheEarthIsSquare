@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "o_scrollbar",
+  "name": "o_pausescreenActual",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
   ],
@@ -28,9 +28,9 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "yellowscrollbar",
-    "path": "sprites/yellowscrollbar/yellowscrollbar.yy",
+    "name": "pause_screen",
+    "path": "sprites/pause_screen/pause_screen.yy",
   },
   "spriteMaskId": null,
-  "visible": true,
+  "visible": false,
 }
