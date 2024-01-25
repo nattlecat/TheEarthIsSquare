@@ -14,4 +14,4 @@ water_text = ["daaang, getting blooooooo", "testing water text", "wonderinghowma
 waterwet_text = ["daaang, totally quenched", "testing waterWET text", "wonderinghowmanycharsistoomanyWATERWET" ];
 
 
-celly = instance_create_layer(x, y, "Instances", o_singlecellblorfo);
+celly = instance_create_layer(x + 8, y, "Instances", o_singlecellblorfo);

@@ -20,13 +20,13 @@ var state_percent = o_planet.planet_state
 
 
 
-
+state_text = test[0];
 
 draw_set_font(Font3);
 
 var sep = 24;
-var width = 840;
-draw_text_ext_transformed(x + 42, y + 12, string(state_text), sep, width, .33, .33, 0);
+var width = 200 * 3;
+draw_text_ext_transformed(x + 54, y + 4, string(state_text), sep, width, .33, .33, 0);
 
 // draw_text_ext(x + 5, y + 5, string(state_text), sep, width)
 // draw_set_halign(fa_center)
