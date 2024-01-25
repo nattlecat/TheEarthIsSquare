@@ -25,4 +25,4 @@ planet_state = greenness_count / (array_length(planet_tiles));
 show_debug_message("AN ATTEMPT WAS MADE, STATE: " + string(planet_state) + "%");
 
 
-alarm[0] = 600;
+alarm[0] = 300;

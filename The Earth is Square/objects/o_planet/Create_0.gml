@@ -5,10 +5,10 @@
 radius = 40;
 
 
-alarm[0] = 600;
+alarm[0] = 300;
 
 
 planet_state = 0;
 
 
-alarm[1] = 800;
+alarm[1] = 600;

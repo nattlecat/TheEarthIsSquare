@@ -2,11 +2,7 @@
 // You can write your code in this editor
 draw_self();
 
-
 var state_percent = o_planet.planet_state
-
-
-
 
 
 
@@ -24,16 +20,14 @@ var state_percent = o_planet.planet_state
 
 
 
-// draw_set_halign(fa_center)
-// draw_set_valign(fa_middle)
+
 
 draw_set_font(Font3);
 
+var sep = 24;
+var width = 840;
+draw_text_ext_transformed(x + 42, y + 12, string(state_text), sep, width, .33, .33, 0);
 
-// draw_text_transformed(x + 5, y + 5, string(state_percent) + "% \nGreenness!", .15, .15, 0);
-
-var sep = 44;
-var width = 60;
-// draw_text_ext_transformed(x + 5, y + 5, string(state_text), sep, width, .1, .1, 0);
-
-draw_text_ext_transformed(x + 5, y + 5, string(state_text), sep, width, .3, .3, 0);
+// draw_text_ext(x + 5, y + 5, string(state_text), sep, width)
+// draw_set_halign(fa_center)
+// draw_set_valign(fa_middle)
