@@ -1,8 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-depth = 0
-is_dragging = false;
+game_end();
 
 
-x_min = 210;
-x_max = 274;
+

@@ -1,10 +1,8 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "o_scrollbar",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-  ],
+  "name": "o_quit",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -28,9 +26,9 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "yellowscrollbar",
-    "path": "sprites/yellowscrollbar/yellowscrollbar.yy",
+    "name": "Sprite23",
+    "path": "sprites/Sprite23/Sprite23.yy",
   },
   "spriteMaskId": null,
-  "visible": true,
+  "visible": false,
 }

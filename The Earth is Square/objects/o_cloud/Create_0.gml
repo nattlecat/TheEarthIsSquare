@@ -1,5 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
+depth = 75
 
 // TODO: create "slider track" and "slider handle" objects and sprites
 slider_pos = 0; // create default slider value 
