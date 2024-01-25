@@ -36,6 +36,7 @@
     {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
     {"name":"flyingasteroid","order":33,"path":"sprites/flyingasteroid/flyingasteroid.yy",},
     {"name":"PlanetZone3","order":13,"path":"sprites/PlanetZone3/PlanetZone3.yy",},
+    {"name":"o_planet_tile","order":32,"path":"objects/o_planet_tile/o_planet_tile.yy",},
     {"name":"o_flyingasteroid","order":30,"path":"objects/o_flyingasteroid/o_flyingasteroid.yy",},
     {"name":"pause_screen","order":31,"path":"sprites/pause_screen/pause_screen.yy",},
     {"name":"PlanetZone4","order":14,"path":"sprites/PlanetZone4/PlanetZone4.yy",},

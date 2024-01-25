@@ -2,30 +2,12 @@
 // You can write your code in this editor
 
 
-/*
-with (o_greenplants) {
-	if (place_meeting(x, y, id)) {
-		greenness += tide_increment_rate * delta_time;
-		greenness = clamp(greenness, 0, 100);
-	}
-}
-
-if (!instance_exists(o_greenplants)) {
-	instance_destroy();
-}
-
-*/
-
-// show_debug_message("interacting in o_g, id: " + string(o_greenplants.id) + ", greenness: " + string(o_greenplants.greenness))
-
-
-if (instance_exists(o_greenplants)) {
-	
+if (instance_exists(o_greenplants)) {	
 // show_debug_message("interacting in o_green, id: " + string(o_greenplants.id) + ", greenness: " + string(o_greenplants.greenness))
 
-    // Check if o_tide_beam is still in collision with the origin o_zone#
+    // Check if o_tide_beam is still in collision with the origin 
     if (place_meeting(x, y, o_greenplants)) {
-        // Increment the greenness of the origin o_zone# object
+        // Increment the greenness of the origin 
         o_greenplants.greenness += tide_increment_rate * delta_time;
         o_greenplants.greenness = clamp(o_greenplants.greenness, 0, 100);
     } else {
@@ -35,10 +17,7 @@ if (instance_exists(o_greenplants)) {
 }
 
 
-
 if (instance_exists(o_grounddry)) {
-	
-		
 // show_debug_message("interacting in o_dry, id: " + string(o_grounddry.id) + ", greenness: " + string(o_grounddry.greenness))
     if (place_meeting(x, y, o_grounddry)) {
         o_grounddry.greenness += tide_increment_rate * delta_time;
@@ -49,10 +28,7 @@ if (instance_exists(o_grounddry)) {
 }
 
 
-
-if (instance_exists(o_groundmoist)) {
-	
-		
+if (instance_exists(o_groundmoist)) {	
 // show_debug_message("interacting in o_moist, id: " + string(o_groundmoist.id) + ", greenness: " + string(o_groundmoist.greenness))
     if (place_meeting(x, y, o_groundmoist)) {
         o_groundmoist.greenness += tide_increment_rate * delta_time;
@@ -61,7 +37,6 @@ if (instance_exists(o_groundmoist)) {
        instance_destroy();
     }
 }
-
 
 
 if (instance_exists(o_water)) {

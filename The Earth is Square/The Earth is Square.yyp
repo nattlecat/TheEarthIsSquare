@@ -56,6 +56,7 @@
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"flyingasteroid","path":"sprites/flyingasteroid/flyingasteroid.yy",},},
     {"id":{"name":"PlanetZone3","path":"sprites/PlanetZone3/PlanetZone3.yy",},},
+    {"id":{"name":"o_planet_tile","path":"objects/o_planet_tile/o_planet_tile.yy",},},
     {"id":{"name":"o_flyingasteroid","path":"objects/o_flyingasteroid/o_flyingasteroid.yy",},},
     {"id":{"name":"pause_screen","path":"sprites/pause_screen/pause_screen.yy",},},
     {"id":{"name":"PlanetZone4","path":"sprites/PlanetZone4/PlanetZone4.yy",},},
