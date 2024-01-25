@@ -30,6 +30,7 @@
     {"name":"o_moon_beam","order":14,"path":"objects/o_moon_beam/o_moon_beam.yy",},
     {"name":"rocketflying","order":30,"path":"sprites/rocketflying/rocketflying.yy",},
     {"name":"WetButGreen","order":24,"path":"sprites/WetButGreen/WetButGreen.yy",},
+    {"name":"Font3","order":2,"path":"fonts/Font3/Font3.yy",},
     {"name":"o_sun_scrollbar_handle","order":10,"path":"objects/o_sun_scrollbar_handle/o_sun_scrollbar_handle.yy",},
     {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
     {"name":"PlanetZone3","order":13,"path":"sprites/PlanetZone3/PlanetZone3.yy",},

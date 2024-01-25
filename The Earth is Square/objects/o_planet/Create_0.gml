@@ -11,4 +11,4 @@ alarm[0] = 600;
 planet_state = 0;
 
 
-alarm[1] = 1200;
+alarm[1] = 800;

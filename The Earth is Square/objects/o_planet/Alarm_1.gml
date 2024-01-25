@@ -4,4 +4,4 @@
 
 var text_box = instance_create_layer(200, 3, "Instances", o_state_text);
 
-alarm[1] = 1200;
+alarm[1] = 800;

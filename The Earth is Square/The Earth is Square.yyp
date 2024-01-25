@@ -50,6 +50,7 @@
     {"id":{"name":"rocketflying","path":"sprites/rocketflying/rocketflying.yy",},},
     {"id":{"name":"o_planet","path":"objects/o_planet/o_planet.yy",},},
     {"id":{"name":"WetButGreen","path":"sprites/WetButGreen/WetButGreen.yy",},},
+    {"id":{"name":"Font3","path":"fonts/Font3/Font3.yy",},},
     {"id":{"name":"o_sun_scrollbar_handle","path":"objects/o_sun_scrollbar_handle/o_sun_scrollbar_handle.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"PlanetZone3","path":"sprites/PlanetZone3/PlanetZone3.yy",},},
