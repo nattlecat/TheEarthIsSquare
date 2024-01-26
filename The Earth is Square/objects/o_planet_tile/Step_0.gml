@@ -10,7 +10,7 @@ if (greenness < 10) {
 	sun_modifier = 1.7;
 } else if (greenness >= 25 && greenness < 35) {
     image_index = 3;
-	sun_modifier = 1.7;
+	sun_modifier = 0;
 } else if (greenness >= 35 && greenness < 50) {
     image_index = 4;
 	sun_modifier = 1.6;
