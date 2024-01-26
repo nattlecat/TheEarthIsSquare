@@ -6,5 +6,5 @@ image_speed = 0;
 image_index = 1;
 
  greenness = random_range(0, 30);
-mut_rate = 0.000002;
-sun_modifier = 1.4;
+mut_rate = 0.000001;
+sun_modifier = 2;
